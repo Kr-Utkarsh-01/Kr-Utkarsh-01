@@ -20,4 +20,7 @@
 You can contact me at [kumaru@iitbhilai.ac.in](mailto:kumaru@iitbhilai.ac.in)
 
 ---
- 
+
+### My GitHub Stats
+
+<a href="http://www.github.com/Kr-Utkarsh-01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kr-Utkarsh-01&stroke=facc15&background=581c87&ring=0891b2&fire=0891b2&currStreakNum=facc15&currStreakLabel=0891b2&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
